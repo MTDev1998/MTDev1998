@@ -66,17 +66,12 @@
 
 # 📈 GitHub Stats
 
-# 📈 GitHub Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MTDev1998&theme=tokyonight)
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=MTDev1998&show_icons=true&theme=tokyonight&cache_seconds=1800" 
-  />
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MTDev1998&theme=tokyonight)
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTDev1998&layout=compact&theme=tokyonight&cache_seconds=1800" 
-  />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MTDev1998&theme=tokyonight)
+
 ---
 
 # 🌍 Contact
