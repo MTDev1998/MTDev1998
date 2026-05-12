@@ -66,9 +66,11 @@
 
 # 📈 GitHub Stats
 
-![Tarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=MTDev1998&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MTDev1998&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MTDev1998&layout=compact&theme=tokyonight&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTDev1998&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
@@ -77,6 +79,8 @@
 💼 LinkedIn : https://www.linkedin.com/in/tarek-moussaoui-56585325a/
 
 📧 Email : tarekmoussaoui20@gmail.com
+
+🌐 Portfolio : https://portfolio-psi-seven-85.vercel.app/
 
 ---
 
