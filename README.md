@@ -17,36 +17,40 @@
 # 🛠️ Stack Technique
 
 ## 🎨 Frontend
-![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
 ## ⚙️ Backend
-![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring)
-![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=nestjs)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
 ## 🗄️ Bases de données & Messaging
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![Neo4j](https://img.shields.io/badge/Neo4j-008cc1?style=for-the-badge&logo=neo4j)
-![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ---
 
 ## ☁️ DevSecOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-orange?style=for-the-badge&logo=gitlab)
-![Nginx](https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
@@ -62,15 +66,16 @@
 
 # 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight)
+![Tarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=MTDev1998&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MTDev1998&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 # 🌍 Contact
 
-💼 LinkedIn : (https://www.linkedin.com/in/tarek-moussaoui-56585325a/)  
+💼 LinkedIn : https://www.linkedin.com/in/tarek-moussaoui-56585325a/
+
 📧 Email : tarekmoussaoui20@gmail.com
 
 ---
